@@ -1,7 +1,7 @@
 # main.py
 import asyncio
 from aiogram import Bot, Dispatcher
-from bot_functions import start_router  
+from bot_functions import start_router
 
 API_TOKEN = "8597347819:AAE-PrsT7QLqthGCTkzvEJcq7a1BUv7GjeU"
 
